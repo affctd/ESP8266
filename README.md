@@ -1,7 +1,5 @@
-# ESP8266Wemo
-Make ESP8266 works directly with Amazone Echo by emulating a WeMo switch using nothing but standard ESP8266 libraries
-
-
+# ESP8266
+ESP & Echo
 ### Getting Started
 
 1. Fill in your SSID & Password at the begining of the sketch
